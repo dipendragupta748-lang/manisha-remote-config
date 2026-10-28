@@ -1,0 +1,8 @@
+{
+  "format": "manisha-signed-config",
+  "v": 1,
+  "alg": "ES256",
+  "kid": "k1",
+  "payload_b64": "",
+  "sig_b64": ""
+}
